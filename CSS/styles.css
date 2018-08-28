@@ -1,0 +1,18 @@
+p{
+  color:red;
+}
+
+#server-side-intro {
+  color: blue;
+}
+
+#main {
+  font-size: 50px;
+}
+
+.my-brain {
+  font-size: 18px;
+  font-style: italic;
+  text-transform: uppercase;
+  color: pink;
+}
