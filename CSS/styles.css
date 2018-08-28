@@ -3,16 +3,17 @@ p{
 }
 
 #server-side-intro {
-  color: blue;
+  color: yellow;
 }
 
 #main {
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .my-brain {
   font-size: 18px;
   font-style: italic;
-  text-transform: uppercase;
+  text-decoration: underline;
+  text-transform: capitalize;
   color: pink;
 }
