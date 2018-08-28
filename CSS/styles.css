@@ -10,6 +10,12 @@ p{
   font-size: 40px;
 }
 
+h2{
+  text-font: Verdana;
+  text-size: 22px;
+  color: purple;
+}
+
 .my-brain {
   font-size: 18px;
   font-style: italic;
